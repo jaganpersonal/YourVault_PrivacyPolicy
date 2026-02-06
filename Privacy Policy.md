@@ -1,5 +1,7 @@
 Privacy Policy – YourVault
+
 Last updated: Feburary 2026
+
 1. Introduction
 YourVault (“the app”) is a privacy-first, offline Android application designed to store secrets and sensitive information locally on the user’s device.
 We respect your privacy and are committed to protecting it.
